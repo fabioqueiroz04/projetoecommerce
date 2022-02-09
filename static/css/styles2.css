@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(209, 147, 194);
+}
+
+#nome-logo a {
+    color: rgb(7, 4, 1);
+}
+
+#navbar-links .navbar-nav a {
+    color: rgb(2, 8, 8);
+}
+
+header,
+#Da-nav {
+    background-color: rgb(209, 147, 194);
+}
+
+#carouselExampleCaptions,
+h5,
+p {
+    color: rgb(10, 1, 1);
+}
+
+#botao .nav-link {
+    color: black;
+}
